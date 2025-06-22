@@ -1,7 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/22d0ef25-9cf7-4a1f-8ae8-9ab3ddd4acbd" width="200" height="200" alt="Totoro GIF" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenzz55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /><img src="https://github.com/user-attachments/assets/22d0ef25-9cf7-4a1f-8ae8-9ab3ddd4acbd" width="200" height="200" alt="Totoro GIF" />
-</div>
+<img src="https://github.com/user-attachments/assets/22d0ef25-9cf7-4a1f-8ae8-9ab3ddd4acbd" width="200" height="200" alt="Totoro GIF" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenzz55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 
 <br clear="left">

@@ -7,7 +7,6 @@
   <br/>
   <img src="https://github.com/user-attachments/assets/b793575d-f7ca-4124-9ebb-64f01b6ea727" height="30" />
   <img src="https://github.com/user-attachments/assets/a263600c-ac77-49b6-b5c1-b6e90101dfbe" height="30" />
-  <img src="https://i.namu.wiki/i/VG-o8Ij43ugzH2f74ye5176KUam565miFDyTCTziIUWSMi7RW-ZnxuKitO6-v87jpzZA2qCGOVraoX7Mw8wdJBvH5KGWKUTjM5LhufPKBBCUECmlexuJKVGdGC7npP4WgfOgSR0gJfFG4Crs5o2SAA.svg" height="22"   />
   <img src="https://github.com/user-attachments/assets/8fa108e8-d4a7-496c-8b5d-8b6e9f365313" height="30" />
   <br />
   <img
@@ -15,9 +14,6 @@
     alt="Kenz5 Badge"
   /><img
     src="https://img.shields.io/badge/youtube-FF0000?style=badge&logo=youtube&logoColor=white"
-    alt="Kenz5 Badge"
-  /><img
-    src="https://img.shields.io/badge/reddit-FF4500?style=badge&logo=reddit&logoColor=white"
     alt="Kenz5 Badge"
   />
 </div>

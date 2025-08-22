@@ -9,13 +9,13 @@
   <img src="https://github.com/user-attachments/assets/a263600c-ac77-49b6-b5c1-b6e90101dfbe" height="30" />
   <img src="https://github.com/user-attachments/assets/8fa108e8-d4a7-496c-8b5d-8b6e9f365313" height="30" />
   <br />
-  <img
+<!--   <img
     src="https://img.shields.io/badge/tistory-E5511E?style=badge&logo=Tistory&logoColor=white"
     alt="Kenz5 Badge"
   /><img
     src="https://img.shields.io/badge/youtube-FF0000?style=badge&logo=youtube&logoColor=white"
     alt="Kenz5 Badge"
-  />
+  /> -->
 </div>
 
 ###

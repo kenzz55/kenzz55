@@ -8,7 +8,7 @@
 
 </div>
 
-<a href="https://solved.ac/kenzo"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kenzo&theme=dark"/></a> 
+<a href="https://solved.ac/kenzo"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=kenzo&theme=dark"/></a> 
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>

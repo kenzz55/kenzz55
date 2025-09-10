@@ -1,5 +1,6 @@
 
-
+### 👋 Welcome!
+👉 [about me here :](https://kenzz55.notion.site)
 <div align= center>
     <br/>
     <img src="https://github.com/user-attachments/assets/b793575d-f7ca-4124-9ebb-64f01b6ea727" height="30" />

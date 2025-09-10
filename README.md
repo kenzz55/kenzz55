@@ -1,8 +1,7 @@
 
 ### 👋 Welcome!
-👉 [about me here :](https://kenzz55.notion.site)
+👉 [about me here :](https://kenzz55.notion.site/2561bc91b5f780178006da1769996b8c)
 <div align= center>
-    <br/>
     <img src="https://github.com/user-attachments/assets/b793575d-f7ca-4124-9ebb-64f01b6ea727" height="30" />
     <img src="https://github.com/user-attachments/assets/a263600c-ac77-49b6-b5c1-b6e90101dfbe" height="30" />
     <img src="https://github.com/user-attachments/assets/8fa108e8-d4a7-496c-8b5d-8b6e9f365313" height="30" />

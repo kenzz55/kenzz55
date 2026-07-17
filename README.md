@@ -5,7 +5,6 @@
     <img src="https://github.com/user-attachments/assets/b793575d-f7ca-4124-9ebb-64f01b6ea727" height="30" />
     <img src="https://github.com/user-attachments/assets/a263600c-ac77-49b6-b5c1-b6e90101dfbe" height="30" />
     <img src="https://github.com/user-attachments/assets/8fa108e8-d4a7-496c-8b5d-8b6e9f365313" height="30" />
-
 </div>
 
 <a href="https://solved.ac/kenzo"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=kenzo&theme=dark"/></a> 
@@ -18,21 +17,17 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
-    
-<!--   <img
-<img src="https://img.shields.io/badge/Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=black"/>
-    src="https://img.shields.io/badge/tistory-E5511E?style=badge&logo=Tistory&logoColor=white"
-    alt="Kenz5 Badge"
-  /><img
-    src="https://img.shields.io/badge/youtube-FF0000?style=badge&logo=youtube&logoColor=white"
-    alt="Kenz5 Badge"
-  /> -->
+<img align="right" width="96" height="72" alt="Image" src="https://github.com/user-attachments/assets/eab8b346-e41b-4d5c-9235-151f0f241770" />
 
+    
 
 
 ---
